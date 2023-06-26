@@ -13,4 +13,6 @@
 <p><h2>Pyhton Scripting</h2></p>
 <li>Text to Morse Converter</li>
 <li>Tic Tac Toe</li>
+<p><h2>Data Science</h2></p>
+<li>SpaceMissionsAnalysis</li>
 
