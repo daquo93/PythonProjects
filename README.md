@@ -4,6 +4,7 @@
 <li>Pong</li>
 <li>Cross the Road (Dowloand car.py as well)</li>
 <p><h2>Data Science</h2></p>
+<li>Titanic Survival</li>
 <li>BreastCancerDetection</li>
 <li>SpaceMissionsAnalysis</li>
 <li>Dr_Semmelweis_Handwashing_Discovery (Download annual_deaths_by_clinic.csv and monthly_deaths.csv as well)</li>
