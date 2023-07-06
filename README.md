@@ -17,6 +17,7 @@
 <p><h2>Machine Learning Algorithm from Scratch</h2></p>
 <li>KNN (Iris Dataset)</li>
 <li>Linear Regression</li>
+<li>LogisticRegression</li>
 
 
 
