@@ -19,6 +19,7 @@
 <li>KNN (Iris Dataset)</li>
 <li>Linear Regression</li>
 <li>LogisticRegression</li>
+<li>Naive Bayes</li>
 
 
 
