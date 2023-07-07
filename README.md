@@ -5,6 +5,7 @@
 <li>Cross the Road (Dowloand car.py as well)</li>
 <p><h2>Data Science</h2></p>
 <li>Binary Classification of Machine Failure (real Kaggle project, 91 % accuracy)</li>
+<li>Heart Attack Prediction</li>
 <li>Titanic Survival</li>
 <li>BreastCancerDetection</li>
 <li>SpaceMissionsAnalysis</li>
