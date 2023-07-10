@@ -21,6 +21,7 @@
 <li>Linear Regression</li>
 <li>LogisticRegression</li>
 <li>Naive Bayes</li>
+<li>Perceptron</li>
 
 
 
